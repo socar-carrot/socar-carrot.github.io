@@ -2,7 +2,7 @@
 layout: post
 title:  "My first post"
 subtitle:  "캐롯의 첫번째 포스트"
-categories: mlops
+categories: dairy
 tags: basic
 comments: true
 ---
@@ -30,5 +30,3 @@ comments: true
 
 ### 후기
 - 재미따
-
-

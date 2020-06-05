@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Lecture
-slug: lecture
+title: Etc
+slug: etc
 category: etc
 menu: false
 order: 1

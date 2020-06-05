@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: diary
-slug: diary
-category: diary
+title: Basic
+slug: basic
+category: dairy
 menu: false
 order: 1
 ---
